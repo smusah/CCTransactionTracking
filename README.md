@@ -1,2 +1,0 @@
-# CCTransactionTracking
-Transaction tracking app
